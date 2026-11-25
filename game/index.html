@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Sizzle &amp; Serve — a tiny kitchen rush</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #241a12;
+    height: 100%;
+  }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+  }
+  #wrap {
+    text-align: center;
+  }
+  canvas {
+    display: block;
+    width: min(1280px, 100vw);
+    height: auto;
+    image-rendering: auto;
+    background: #e8cfa8;
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5);
+  }
+  #keys {
+    color: #b9ab98;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="800"></canvas>
+  <div id="keys">WASD / arrows to move &nbsp;•&nbsp; E or click to use a counter &nbsp;•&nbsp; M to mute &nbsp;•&nbsp; R to restart</div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
