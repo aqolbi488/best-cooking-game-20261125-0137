@@ -1,8 +1,8 @@
 # Sizzle & Serve — a tiny kitchen rush
 
-![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137.svg)
-![rank](https://make.fun/badge/best-cooking-game-20261125-0137/aqolbi488/best-cooking-game-20261125-0137/rank.svg)
-![reward](https://make.fun/badge/best-cooking-game-20261125-0137/aqolbi488/best-cooking-game-20261125-0137/reward.svg)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/aqolbi488/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/aqolbi488/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A complete little cooking game: orders land on the board, you run the kitchen.
 Fetch ingredients from the counters, chop the veg, grill the patties, build
